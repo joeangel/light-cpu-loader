@@ -4,6 +4,14 @@ This project simulates controlled CPU usage for testing and benchmarking purpose
 
 ## Get Started
 
+### shell script version
+
+```shell
+bash main.sh
+```
+
+### C++ version
+
 ```shell
 sudo apt install make g++
 make
